@@ -1,3 +1,3 @@
 # ProjectUML159957
 
-More info in the Wiki.
+More info on the Wiki.
